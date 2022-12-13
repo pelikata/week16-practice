@@ -1,0 +1,62 @@
+[
+    {
+        "name": "sor",
+        "tagline": "xy",
+        "abv": 8
+    },
+    {
+        "name": "josor",
+        "tagline": "gt",
+        "abv": 9
+    },
+    {
+        "name": "nagyonjosor",
+        "tagline": "lo",
+        "abv": 3
+    },
+    {
+        "name": "megjobbsor",
+        "tagline": "xy",
+        "abv": 6
+    },
+    {
+        "name": "megjobbsor",
+        "tagline": "xy",
+        "abv": 6
+    },
+    {
+        "name": "fr",
+        "tagline": "de",
+        "abv": "05"
+    },
+    {
+        "name": "frh",
+        "tagline": "dez",
+        "abv": "056"
+    },
+    {
+        "name": "kanizsai",
+        "tagline": "dez",
+        "abv": "056"
+    },
+    {
+        "name": "kanizsai",
+        "tagline": "ji",
+        "abv": "032"
+    },
+    {
+        "name": "name",
+        "tagline": "hu",
+        "abv": "23"
+    },
+    {
+        "name": "hu",
+        "tagline": "de",
+        "abv": "78"
+    },
+    {
+        "name": "kati",
+        "tagline": "kati",
+        "abv": "23"
+    }
+]
