@@ -1,0 +1,18 @@
+.loading {
+  background-color: pink;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+.sor {
+  margin: 30px 50px
+
+}
+
+.sor img {
+  height: 150px;
+  
+}
